@@ -1,4 +1,3 @@
-```markdown
 # Lung Cancer Detection App
 
 This Django web application utilizes a pre-trained deep learning model to predict lung cancer from chest X-ray images. The model has been trained to classify images into three classes: Adenocarcinomas, Normal, and Squamous Cell Carcinomas.
