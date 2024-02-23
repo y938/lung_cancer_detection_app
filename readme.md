@@ -3,7 +3,8 @@
 This Django web application utilizes a pre-trained deep learning model to predict lung cancer from chest X-ray images. The model has been trained to classify images into three classes: Adenocarcinomas, Normal, and Squamous Cell Carcinomas.
 
 ## Getting Started
-you can get the trained model at my google drive https://drive.google.com/file/d/1srqILxGZqxfPYeJHVJcpIb2QCq8AIDb-/view?usp=drive_link
+you can get the trained model at my google drive https://drive.google.com/file/d/1srqILxGZqxfPYeJHVJcpIb2QCq8AIDb-/view?usp=sharing
+- then add it in your project folder
 
 ### Prerequisites
 
