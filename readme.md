@@ -44,7 +44,7 @@ python manage.py runserver
 
 ### Training the Model for Better Accuracy
 
-To improve the model accuracy, you can train your own model using Google Colab. Follow these steps:
+To improve the model accuracy(i used free version of colab), you can train your own model using Google Colab. Follow these steps:
 
 1. Open `lung.ipynb` in Google Colab.
 2. Increase the image size and batch size for better accuracy.
