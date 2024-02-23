@@ -14,12 +14,6 @@ you can get the trained model at my google drive https://drive.google.com/file/d
 - TensorFlow
 - numpy
 
-Install the required packages using:
-
-```bash
-pip install django opencv-python tensorflow numpy
-```
-
 ### Usage
 
 1. Clone the repository:
